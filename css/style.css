@@ -13,6 +13,7 @@ body {
 	font-weight:400;
 	overflow-x:hidden;
 }
+
 .playball {
 	font-family:'Playball',cursive;
 }
@@ -32,14 +33,6 @@ img {max-width: 100%;}
 	left:0px;
 	width:100%;
 }
-.menu {
-	margin-top:0px;
-	position:absolute;
-	z-index:999;
-	left:0px;
-	right:0px;
-	bottom:0;
-}
 
 .navArea {
 	/*float:right;*/
@@ -58,6 +51,7 @@ img {max-width: 100%;}
 	float:none;
 	display:inline-block;
 }
+
 .navbar-nav {
 	margin:0 auto;
 	text-align:center;
@@ -109,6 +103,7 @@ img {max-width: 100%;}
 }
 .navbar-inverse .navbar-nav>.active>a:hover {
 	color:#fff;
+
 }
 .hideClass {
 	display:none;
